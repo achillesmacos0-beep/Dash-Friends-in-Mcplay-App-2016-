@@ -1,0 +1,6 @@
+{
+  "name": "McPlay Dash & Friends",
+  "description": "McDonald's Dash & Friends McPlay experience featuring See Toys collection, Scan Your Toy, and mini-games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
